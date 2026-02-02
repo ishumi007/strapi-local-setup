@@ -68,7 +68,7 @@ Admin Panel: http://localhost:1337/admin
 Screenshots and demo are recorded in the Loom video (linked in PR).
 
 ## Loom Video
-<ADD YOUR LOOM VIDEO LINK HERE>
+<https://www.loom.com/share/2133749a085340d8b1a68b35135d33c0>
 
 ## Author
 ## Ishu Mishra
