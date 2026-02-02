@@ -58,11 +58,11 @@ Admin Panel: http://localhost:1337/admin
 
 ## Project Structure Overview
 ### Key folders explored:
-src/ – application source code
-config/ – environment and database configuration
-database/ – SQLite database
-public/ – static assets
-node_modules/ – dependencies
+### src/ – application source code
+### config/ – environment and database configuration
+### database/ – SQLite database
+### public/ – static assets
+### node_modules/ – dependencies
 
 ## Screenshots / Demo
 Screenshots and demo are recorded in the Loom video (linked in PR).
@@ -71,4 +71,4 @@ Screenshots and demo are recorded in the Loom video (linked in PR).
 <ADD YOUR LOOM VIDEO LINK HERE>
 
 ## Author
-Ishu Mishra
+**Ishu Mishra**
